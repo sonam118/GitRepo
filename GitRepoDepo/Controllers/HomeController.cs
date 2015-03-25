@@ -12,7 +12,7 @@ namespace GitRepoDepo.Controllers
         {
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
 
-            return View("index two");
+            return View("index three
         }
 
         public ActionResult About()
