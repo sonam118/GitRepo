@@ -18,7 +18,6 @@ namespace GitRepoDepo.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your app description page.";
-
             return View();
         }
 
